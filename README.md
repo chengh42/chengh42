@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there 🌱
+
+I’m currently working at [@impact-institute](https://github.com/impact-institute), mostly with F#.
+
+Recent public work: 
+- a SPA of [@gcaa-org-tw](https://github.com/gcaa-org-tw)'s [special issue for its 20th anniversary](https://gcaa-org-tw.github.io/gcaa-issue-20th-anniversary/)
 
 <!--
 **chengh42/chengh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
