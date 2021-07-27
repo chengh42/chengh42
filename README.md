@@ -5,7 +5,11 @@ I’m currently working at [@impact-institute](https://github.com/impact-institu
 Recent public work: 
 - a SPA of [@gcaa-org-tw](https://github.com/gcaa-org-tw)'s [special issue for its 20th anniversary](https://gcaa-org-tw.github.io/gcaa-issue-20th-anniversary/)
 - [PreZero Impact Checker](https://impactchecker.nl/)
-- with [ECOCEO](https://www.facebook.com/ecoceo2018) on [data for water and green](https://hackmd.io/@chengh/H1z46Zihd/%2FAQCpJkeRRXKrjVK51PROcg)
+
+Articles: 
+
+- [污染農地的工廠在哪裡？透明足跡在總統盃找給你](https://thaubing.gcaa.org.tw/blog/post/274) 2020.10
+- [企業違規紀錄評比，比什麼？](https://thaubing.gcaa.org.tw/blog/post/268) 2020.9
 
 <!--
 **chengh42/chengh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
